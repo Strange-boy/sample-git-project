@@ -1,0 +1,3 @@
+Hello, Welcome to the hello git series!!
+Learning git is awesome!!
+And i am having a lot of fun learning git.
